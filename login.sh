@@ -1,5 +1,9 @@
 #!/bin/bash
 ##SSH Login notify with two factor auth]\
+#Auther : James PS
+#Git Hub : https://github.com/jamesarems
+#Mail Me: info@jamesarems.com
+#-----------------------------------------
  LOCATION=`pwd`
  LOG='/var/log'
  TIME=`date +"%Y_%m_%d_%I_%M_%p"`
