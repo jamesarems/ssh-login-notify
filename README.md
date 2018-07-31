@@ -1,4 +1,4 @@
-# SSH-Login-Notify
+# SSH-Login-Notify (SLN)
 A Simple utility to enable two factor authentication in all Linux systems..!
 
 No Istallation required. Just put script in your ~/.bash_profile .
