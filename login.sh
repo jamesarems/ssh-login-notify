@@ -1,7 +1,8 @@
 #!/bin/bash
-##SSH Login notify with two factor auth
- echo $RANDOM > /root/login/code.txt
- CODE=`cat /root/login/code.txt`
+##SSH Login notify with two factor auth]\
+ LOCATION=`pwd`
+ echo $RANDOM > $LOCATION/code.txt
+ CODE=`cat $LOCATION/code.txt`
  echo "Linux Server OTP: $CODE " | mail -s "Server OTP" test@test.com
  echo "A mail has been send to your admin"
  read -p "Please type the code:" b
