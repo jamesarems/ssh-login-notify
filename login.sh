@@ -1,6 +1,6 @@
 #!/bin/bash
 ##SSH Login notify with two factor auth]\
-#Auther : James PS
+#Author : James PS
 #Git Hub : https://github.com/jamesarems
 #Mail Me: info@jamesarems.com
 #-----------------------------------------
